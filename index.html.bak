@@ -8,7 +8,6 @@
 <div>
 <h1>TopSite98.com</h1>
 <h2>h2</h2>
-<h3>h3</h3>
 </div>
 
 <div id="MyClockDisplay" class="clock" onload="showTime()"></div>
